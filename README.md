@@ -1,1 +1,1 @@
-# thirdsemminiproject
+# Student Database Management System
